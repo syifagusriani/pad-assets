@@ -1,4 +1,4 @@
-Unnamed: 0,Gender,TestPrep,PracticeSport,TransportMeans,WklyStudyHours,MathScore,ReadingScore,WritingScore
+Unnamed: 0,gender,test_prep,sport,transport,wkstudy_hours,math_score,reading_score,writing_score
 0,female,none,regularly,school_bus,< 5,71,71,74
 1,female,,sometimes,,5 - 10,69,90,88
 2,female,none,sometimes,school_bus,< 5,87,93,91
