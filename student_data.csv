@@ -1,4 +1,4 @@
-Unnamed: 0,Gender,LunchType,TestPrep,PracticeSport,IsFirstChild,NrSiblings,TransportMeans,WklyStudyHours,MathScore,ReadingScore,WritingScore
+Unnamed: 0,gender,lunch_type,test_prep,sport,is_first_child,siblings,transport,wkstudy_hours,math_score,reading_score,writing_score
 0,female,standard,none,regularly,yes,3.0,school_bus,< 5,71,71,74
 1,female,standard,,sometimes,yes,0.0,,5 - 10,69,90,88
 2,female,standard,none,sometimes,yes,4.0,school_bus,< 5,87,93,91
